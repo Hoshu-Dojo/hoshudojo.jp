@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "ホームページ"
-permalink: "/ja"
 lang: "ja"
 nav:
   home: "ホームページ"
