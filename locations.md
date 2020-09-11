@@ -74,7 +74,7 @@ lang: "ja"
       <tr>
          <td><a href="#contactUs">那覇道場</a></td>
          <td><b>与那嶺泰輔</b>
-            杖道四段
+            杖道五段
             大東流合気柔術三段
          </td>
          <td>
